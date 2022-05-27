@@ -1,0 +1,78 @@
+.primary-title {
+  font-size: 28px;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.react-radio {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 20px;
+}
+
+.react-radio > label {
+  margin-right: 0px;
+  border-radius: 12px;
+  box-shadow: 0 1px #ffffff inset, 0 1px 3px rgba(34, 25, 25, 0.4);
+  color: #1a2e35;
+  font-weight: 400;
+  font-size: 15px;
+  padding: 14px 32px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.react-radio > label .numeric {
+  margin-right: 12px;
+  background-color: rgba(250, 71, 97, 0.1);
+  border-radius: 100px;
+  padding: 3px;
+  width: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  border: 1px solid transparent;
+  color: #fa4761;
+}
+
+.react-radio > label.active-radio .numeric {
+  background-color: #fa4761;
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.react-radio > label.active-radio {
+  background-color: #fa4761;
+  color: #fff;
+}
+
+.react-radio > label > input {
+  display: none;
+}
+
+.pagination-box {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  grid-gap: 10px;
+}
+
+.pagination-box button {
+  border: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.pagination-box button img {
+  width: 24px;
+}
+
+.pagination-box > div {
+  display: flex;
+  grid-gap: 7px;
+}

@@ -1,0 +1,28 @@
+<svg width="350" height="275" viewBox="0 0 350 275" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M348.6 22.5H1V5.2C1 2.9 2.9 1 5.2 1H344.3C346.6 1 348.5 2.9 348.5 5.2V22.5H348.6Z" fill="#FA4761" stroke="#1A2E35" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M348 26.5H1.7002V273.7H348V26.5Z" fill="white" stroke="#1A2E35" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M332 9.30005L338.7 16" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M338.7 9.30005L332 16" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M322.6 9.30005H315.9V16H322.6V9.30005Z" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M298.5 12H306.6" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M104.6 117.8H24.2998V123.2H104.6V117.8Z" fill="#1A2E35"/>
+<path d="M177.9 131.1H24.2998V135.1H177.9V131.1Z" fill="#E7E7E7"/>
+<path d="M150.2 138.7H24.2998V142.6H150.2V138.7Z" fill="#E7E7E7"/>
+<path d="M166.7 146.2H24.2998V150.1H166.7V146.2Z" fill="#E7E7E7"/>
+<path d="M166.7 153.6H24.2998V157.5H166.7V153.6Z" fill="#E7E7E7"/>
+<path d="M326.2 170.2H260.4V175.6H326.2V170.2Z" fill="#1A2E35"/>
+<path d="M183.828 186.983L326.628 186.983L326.628 182.983L183.828 182.983L183.828 186.983Z" fill="#E7E7E7"/>
+<path d="M209.582 194.436L326.682 194.436L326.682 190.536L209.582 190.536L209.582 194.436Z" fill="#E7E7E7"/>
+<path d="M194.251 201.933L326.651 201.933L326.651 198.033L194.251 198.033L194.251 201.933Z" fill="#E7E7E7"/>
+<path d="M327.8 32.8H24.7998V37.2001H327.8V32.8Z" fill="#1A2E35"/>
+<path d="M327 37.2002H25.5996V105.7H327V37.2002Z" fill="white"/>
+<path d="M327.9 105.9H24.7998V37.1001H327.9V105.9ZM26.4998 105.6H326.2V37.4001H26.4998V105.6Z" fill="#DCDCDC"/>
+<path d="M26.3998 105.8L24.7998 105.7L326.2 37.2002L327.8 37.3002L26.3998 105.8Z" fill="#DCDCDC"/>
+<path d="M326.2 105.8L24.7998 37.3002L26.3998 37.2002L327.8 105.7L326.2 105.8Z" fill="#DCDCDC"/>
+<path d="M326.9 117.8H240.9V157.8H326.9V117.8Z" fill="#E7E7E7"/>
+<path d="M104.8 169.8H24.7998V207.8H104.8V169.8Z" fill="#E7E7E7"/>
+<path d="M25.3188 225.866L25.3188 259.266H325.319V225.866L25.3188 225.866Z" fill="white"/>
+<path d="M325.9 225.8V259.4H24.8999V225.8H325.9ZM324.9 259.2V226H25.8999V259.2H324.9Z" fill="#E7E7E7"/>
+<path d="M325.5 259.2L325.2 259.4L25.1001 226L25.5001 225.8L325.5 259.2Z" fill="#E7E7E7"/>
+<path d="M325.5 226L25.5001 259.4L25.1001 259.2L325.2 225.8L325.5 226Z" fill="#E7E7E7"/>
+</svg>
